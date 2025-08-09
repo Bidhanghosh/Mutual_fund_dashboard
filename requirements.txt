@@ -1,4 +1,6 @@
 mftool
 beautifulsoup4
 requests
+matplotlib
 streamlit
+
