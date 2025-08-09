@@ -1,0 +1,4 @@
+mftool
+beautifulsoup4
+requests
+streamlit
