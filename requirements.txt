@@ -2,5 +2,7 @@ mftool
 beautifulsoup4
 requests
 matplotlib
+plotly
 streamlit
+
 
